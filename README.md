@@ -3,7 +3,7 @@
 
 Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn! Ever had your hot meal go cold while you're stuck browsing for the perfect movie? Say goodbye to those chilly dinners and endless scrolling. With MovieSwiper, you're just a minute away from a personalized movie list that's hotter than your freshly popped corn. Ready, set, binge! WOW!
 
-🌐 **Website**: https://euphonious-cranachan-4b6e18.netlify.app/landing
+🌐 **Website**: [https://euphonious-cranachan-4b6e18.netlify.app/landing](https://themovieswiper.netlify.app/landing)
 
 ## 🛠 Technologies Used
 
