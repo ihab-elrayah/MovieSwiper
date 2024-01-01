@@ -19,9 +19,10 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 
 ## 🌟 Features
 
-- **Sound Integration**: Immerse users with handpicked soundscapes, deepening their connection to the world of phytoplankton.
-- **Engaging Storyline**: Meticulously crafted to both engage and educate, ensuring each interaction leaves a lasting impression.
-- **Animations**: Breathtaking animations that offer a glimpse into the vibrant world of phytoplankton and the wonders of marine life.
+- **Personalized Recommendations**: Tailored movie suggestions based on individual preferences, making every user's experience unique.  
+- **Interactive Watchlist**: A dynamic watchlist feature that allows users to track and manage their must-watch movies effortlessly.
+- **Forgot Password System:** A user-friendly recovery option that ensures seamless access recovery, keeping movie nights uninterrupted.
+
 
 ## 🤝 Contribute
 
