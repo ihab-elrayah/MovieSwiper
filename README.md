@@ -43,6 +43,6 @@ Bug Reporting: Encountered a glitch? Let us know! Your feedback is crucial in sm
 
 **Getting Started**:
 
--**Contact Me**: To start contributing, visit my GitHub repository or reach out to me through email: ihab.elrayah6@gmail.com. We appreciate your interest in MovieSwiper and look forward to your valuable contributions!
+- **Contact Me**: To start contributing, visit my GitHub repository or reach out to me through email: ihab.elrayah6@gmail.com. We appreciate your interest in MovieSwiper and look forward to your valuable contributions!
 
 
