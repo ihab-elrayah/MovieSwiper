@@ -1,2 +1,6 @@
 # MovieSwiper
-![MovieSwiper](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/2a17bd8f-c1fb-4cfe-9ca9-b623a4761d3a)
+
+
+- Key Topics
+  ● Developed a user-centric movie recommendation system with a watchlist for streamlined film selection.
+  ● Implemented authentication and authorization mechanisms with embedded JSON Web Tokens for enhanced security
