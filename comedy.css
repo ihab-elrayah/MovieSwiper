@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+/* Global Styles */
+* {
+  font-family: 'Nunito', sans-serif;
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: .2s linear;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: -webkit-linear-gradient(25deg, #DF5854, #d37d5c, #71AC9A, #A5D2C0, #FCE4D9);
+  color: white; /* White text color for better contrast */
+}
+
+/* Movie Grid Layout */
+.movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 20px;
+  padding: 40px; /* Increased padding */
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 100px; /* Space below the fixed header */
+}
+
+/* Movie Card Style */
+.movie {
+  background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white */
+  border-radius: 5px;
+  box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+  text-align: center;
+  padding: 20px;
+  transition: transform 0.3s; /* Smooth transform on hover */
+}
+
+.movie:hover {
+  transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+img {
+  max-width: 100%; /* Responsive images */
+  border-radius: 5px; /* Rounded corners for images */
+}
+
+h3 {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Header Styles */
+.header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 9%;
+  z-index: 2;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+}
+
+.header .logo img {
+  height: 6rem; /* Logo size */
+}
+
+.header .logo h1 {
+  color: #fff;
+  font-family: 'Nunito', sans-serif;
+  font-size: x-large;
+  margin-left: 1rem; /* Space between logo and title */
+}
+
+.header .navbar {
+  display: flex;
+  align-items: center;
+}
+
+.header .navbar a {
+  font-size: 2rem;
+  color: #fff;
+  margin-right: 2rem; /* Space between nav items */
+  text-decoration: none;
+}
+
+.header .navbar a:hover {
+  color: #d3ad7f; /* Hover color */
+}
+
+.header #menu {
+  display: none; /* Initially hidden menu icon for mobile */
+  cursor: pointer;
+  font-size: 2.5rem;
+  color: #fff;
+}
+
+/* Responsive Navbar for Mobile */
+@media (max-width: 768px) {
+  .header #menu {
+    display: block;
+  }
+
+  .header .navbar {
+    position: fixed;
+    top: 0; right: -100%; /* Hide off-screen initially */
+    width: 60%; /* Mobile navbar width */
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    transition: right 0.5s;
+    padding: 2rem;
+  }
+
+  .header .navbar.active {
+    right: 0; /* Show navbar when active */
+  }
+
+  .header .navbar a {
+    display: block;
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .header .navbar #close {
+    display: block;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2.5rem;
+    color: #fff;
+    cursor: pointer;
+  }
+}
+
+/* Additional Media Queries for smaller devices */
+@media (max-width: 600px) {
+  .movies {
+    grid-template-columns: 1fr; /* Single column layout on smaller screens */
+  }
+
+  h1 {
+    font-size: 28px; /* Smaller font size for titles */
+  }
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 20px;
+  color: white;
+}
