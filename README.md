@@ -1,11 +1,8 @@
-# MovieSwiper
 
-# 🚀 NASA Space Apps Hackathon: Ocean-Garden Challenge
+# MovieSwiper🚀
 
 Welcome to our project repository for the Ocean-Garden challenge at the NASA Space Apps Hackathon. Fueled by ambition and purpose, we aimed to weave an interactive web narrative emphasizing the profound significance of phytoplankton within our marine ecosystem.
-
-
- <img width="1434" alt="Screenshot 2023-10-16 at 5 45 01 PM" src="https://github.com/MoeDevs1/Nasa-Hackathon-Ocean-Garden/assets/120997135/d92fc328-7f10-4878-bf88-c9e627ce019b">
+![arcicoct](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/47ff65d1-ac4a-49f0-8e4b-73a09b1ad007)
 
 
 🌐 **Website**: Coming soon!
