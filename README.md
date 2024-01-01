@@ -41,7 +41,7 @@ Bug Reporting: Encountered a glitch? Let us know! Your feedback is crucial in sm
 
 - **Content Creation**: Are you a wordsmith or a film buff? Contribute by writing engaging content, movie reviews, or blog posts.
 
--**Getting Started**
+**Getting Started**:
 
 -**Contact Me**: To start contributing, visit my GitHub repository or reach out to me through email: ihab.elrayah6@gmail.com. We appreciate your interest in MovieSwiper and look forward to your valuable contributions!
 
