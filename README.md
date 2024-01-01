@@ -26,11 +26,11 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 
 ## 🤝 Contribute to MovieSwiper
 
-Join Our Cinematic Journey:
+-**Join Our Cinematic Journey**:
 
 At MovieSwiper, we believe in the power of collaboration to enhance the movie-watching experience for everyone. Whether you're a seasoned coder, a budding designer, or just passionate about movies, your contributions can make a significant impact.
 
-How You Can Contribute:
+-**How You Can Contribute**:
 
 -**Code Development**: Help us refine and expand MovieSwiper's features. Whether it's front-end  or back-end, your coding skills are invaluable.
 Bug Reporting: Encountered a glitch? Let us know! Your feedback is crucial in smoothing out any wrinkles in our system.
@@ -40,3 +40,9 @@ Bug Reporting: Encountered a glitch? Let us know! Your feedback is crucial in sm
 -**Design Enhancements**: If you have a keen eye for design, your input on our UI/UX can help make MovieSwiper even more visually appealing and user-friendly.
 
 -**Content Creation**: Are you a wordsmith or a film buff? Contribute by writing engaging content, movie reviews, or blog posts.
+
+-**Getting Started**
+
+-**Contact Me**: To start contributing, visit my GitHub repository or reach out to me through email: ihab.elrayah6@gmail.com. We appreciate your interest in MovieSwiper and look forward to your valuable contributions!
+
+
