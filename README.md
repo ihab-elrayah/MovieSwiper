@@ -10,9 +10,12 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 
 ## 🛠 Technologies Used
 
-- **HTML**: The foundational structure of our interactive story.
-- **CSS**: Adding aesthetic flair, ensuring our narrative is as visually striking as it is informative.
-- **JavaScript**: The pulse of our project, enabling dynamic and interactive elements that captivate our audience.
+- **HTML**:  The backbone of MovieSwiper, crafting the basic framework and structure of our cinematic portals.
+- **CSS**: The style wizard of MovieSwiper, draping our application in a visually stunning and user-friendly cloak.
+- **JavaScript**: The dynamic engine behind MovieSwiper, powering interactive and responsive features for a seamless movie-browsing experience.
+- **Firebase**: The robust spine of user management, providing secure authentication, real-time data handling, and montoring anayltics for a tailored user experience.
+- **Third-party Movie API**: The vast ocean of movie data, delivering a diverse array of film information to fine-tune our personalized recommendations.
+
 
 ## 🌟 Features
 
