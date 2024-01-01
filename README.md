@@ -1,11 +1,12 @@
 
 # MovieSwiper🚀
 
-Welcome to our project repository for the Ocean-Garden challenge at the NASA Space Apps Hackathon. Fueled by ambition and purpose, we aimed to weave an interactive web narrative emphasizing the profound significance of phytoplankton within our marine ecosystem.
-![arcicoct](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/47ff65d1-ac4a-49f0-8e4b-73a09b1ad007)
+Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn! Ever had your hot meal go cold while you're stuck browsing for the perfect movie? Say goodbye to those chilly dinners and endless scrolling. With MovieSwiper, you're just a minute away from a personalized movie list that's hotter than your freshly popped corn. Ready, set, binge! WOW!
 
 
-🌐 **Website**: Coming soon!
+
+
+🌐 **Website**: 
 
 ## 🛠 Technologies Used
 
