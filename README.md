@@ -5,8 +5,6 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 
 🌐 **Website**: [https://themovieswiper.netlify.app/landing](https://themovieswiper.netlify.app/landing) 
 
-![m](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/1d8eef5e-ce9b-49bf-9050-3b76753e9fd3)
-
 ![mmsmall](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/ddccd741-abc3-4980-8cca-f7e0e31b19f2)
 
 
