@@ -7,6 +7,7 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 
 ![moiveswiper](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/04bb2670-cc8b-45cd-afe4-1c024b3e8c9c)
 
+[movies copy.GIF.zip](https://github.com/ihab-elrayah/MovieSwiper/files/13824660/movies.copy.GIF.zip)
 
 
 ## 🛠 Technologies Used
