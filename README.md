@@ -8,6 +8,7 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 ![m](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/1d8eef5e-ce9b-49bf-9050-3b76753e9fd3)
 
 
+![moiveswiper](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/04bb2670-cc8b-45cd-afe4-1c024b3e8c9c)
 
 ## 🛠 Technologies Used
 
