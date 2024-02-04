@@ -7,7 +7,7 @@ Welcome to MovieSwiper, where choosing a film is faster than microwaving popcorn
 ![mmsmall](https://github.com/ihab-elrayah/MovieSwiper/assets/127975319/ddccd741-abc3-4980-8cca-f7e0e31b19f2)
 
 
-
+ 
 ## 🛠 Technologies Used
 
 - **HTML**:  The backbone of MovieSwiper, crafting the basic framework and structure of our cinematic portals.
